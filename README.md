@@ -14,7 +14,7 @@ If you have any issues, questions or suggestions, you may want to post those ove
 
 ![](SDB-fetch-docs-preview.png)
 
-A simple panel that populates a dropdownlist with the names of all open documents on reload and on button press.
+A simple panel that populates a dropdownlist with the names of all open documents on reload and on button press. It does also activate documents when you select them in the dropdownlist.
 
 #### General tidbits
 
