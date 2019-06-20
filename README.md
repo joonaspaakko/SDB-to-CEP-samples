@@ -12,8 +12,9 @@ If you have any issues, questions or suggestions, you may want to post those ove
  
 ## SDB.fetch.docs
 
-A simple panel that populates a dropdownlist with the names of all open documents on reload and on button <press class=""></press>
+![](SDB-fetch-docs-preview.png);
 
+A simple panel that populates a dropdownlist with the names of all open documents on reload and on button press.
 
 #### General tidbits
 
