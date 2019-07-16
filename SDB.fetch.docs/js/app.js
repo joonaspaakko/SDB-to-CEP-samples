@@ -3,6 +3,8 @@
 SDB.inspector();
 
 var csi = new CSInterface();
+SDB.themeManager.init( csi );
+
 // https://scriptui.joonas.me/docs/CEP-export/helper-functions/#name
 var dropdown = SDB.name('docsDropdown');
 // https://scriptui.joonas.me/docs/CEP-export/dropdownlist/#empty
