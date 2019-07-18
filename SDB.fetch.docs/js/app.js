@@ -3,6 +3,7 @@
 SDB.inspector();
 
 var csi = new CSInterface();
+// https://scriptui.joonas.me/docs/CEP-export/thememanager/
 SDB.themeManager.init( csi );
 
 // https://scriptui.joonas.me/docs/CEP-export/helper-functions/#name
